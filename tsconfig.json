@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "module": "system", // как будут генерироваться модули
+        "noImplicitAny": false, // нельзя использовать any
+        "removeComments": true, // удалять комментарии
+        "target": "ES5",
+        "sourceMap": true, // создать map файлы для отладки
+    },
+    "include": [
+        "**/*.ts"
+    ],
+    "exclude": [
+        "node_modules"
+    ]
+}

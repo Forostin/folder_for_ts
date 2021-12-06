@@ -1,0 +1,22 @@
+#output{
+    width: 100%;
+    height: 1000px;
+    background: blueviolet;
+    padding: 10px;
+}
+.classProduct{
+    height: 150px;
+    margin: 10px ;
+    background: cadetblue;
+    border: 2px solid blue;
+    border-radius: 15px;
+    padding: 10px;
+    text-align: center;
+}
+button{
+    width: 150px;
+    height: 20px;
+    margin: 10px;
+    color: green;
+    font-weight: bold;
+}
